@@ -2,5 +2,6 @@
     <qresource prefix="/">
         <file>main.qml</file>
         <file>base_controls/button/CButton.qml</file>
+        <file>base_controls/button/CSwitch.qml</file>
     </qresource>
 </RCC>

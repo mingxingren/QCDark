@@ -3,8 +3,6 @@ import QtGraphicalEffects 1.15
 
 Item {
     id: root
-    width: 120
-    height: 30
     property alias color: button.color
     property real radius: 3
     property alias text: button_text.text
